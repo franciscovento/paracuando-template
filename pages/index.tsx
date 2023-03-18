@@ -33,6 +33,12 @@ const Home: NextPageWithLayout = () => {
             <Link href={'/category/marcas-y-tiendas'}>
               <button>Torneos</button>
             </Link>
+            <div>adfamsdña</div>
+            <div>adfamsdña</div>
+            <div>adfamsdña</div>
+            <div>adfamsdña</div>
+            <div>adfamsdña</div>
+            <div>adfamsdña</div>
           </div>
         </div>
       </div>
